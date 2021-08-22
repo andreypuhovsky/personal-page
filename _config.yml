@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Andrey Puhovsky'
-description: 'T-shaped human being'
+title: 'I am Andrey Puhovsky'
+description: 'T-SHAPED HUMAN BEING'
 
 # Images
 avatar: 'avatar.jpg'
@@ -14,11 +14,11 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
-linkedin: 'andreypuhovsky'
-instagram: 'andrey.puhovsky'
+LinkedIn: 'andreypuhovsky'
+Instagram: 'andrey.puhovsky'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-github-user: 'borlcand'
+GitHub: 'borlcand'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -30,13 +30,13 @@ github-user: 'borlcand'
 #medium:  ''
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
-vk: 'andrey.puhovsky'
+VK: 'andrey.puhovsky'
 #blog_url: 'myblog.blog.com'
-email: 'andrey@puhovsky.com'
+Email: 'andrey@puhovsky.com'
 #messenger: 'myfbchat'
-telegram: 'andreypuhovsky'
+Telegram: 'andreypuhovsky'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, telegram, email]
+social-links-order: [GitHub, Facebook, Twitter, Instagram, Tumblr, Pinterest, LinkedIn, YouTube, VK, Weibo, Dribbble, Messenger, Blog, Telegram, Email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -58,100 +58,100 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: linkedin
+  - name: LinkedIn
     url-pattern: linkedin.com/in/__USERNAME__
 
-  - name: google-plus
+  - name: Google-Plus
     url-pattern: plus.google.com/+__USERNAME__
 
-  - name: vk
+  - name: VK
     url-pattern: vk.com/__USERNAME__
 
-  - name: weibo
+  - name: Weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
-  - name: flickr
+  - name: Flickr
     url-pattern: flickr.com/__USERNAME__
 
-  - name: pinterest
+  - name: Pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: GitHub
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
-  - name: gitlab-user
+  - name: GitLab
     url-pattern: gitlab.com/__USERNAME__
     icon-class: fab fa-2x fa-gitlab
 
-  - name: codepen
+  - name: Codepen
     url-pattern: codepen.com/__USERNAME__
 
-  - name: stack-overflow
+  - name: StackOverflow
     url-pattern: stackoverflow.com/users/__USERNAME__
 
-  - name: reddit
+  - name: Reddit
     url-pattern: reddit.com/user/__USERNAME__
 
-  - name: rubygems
+  - name: RubyGems
     url-pattern: rubygems.org/profiles/__USERNAME__
     icon-class: far fa-2x fa-gem
 
-  - name: steam
+  - name: Steam
     url-pattern: steamcommunity.com/id/__USERNAME__
 
-  - name: youtube
+  - name: YouTube
     url-pattern: youtube.com/__USERNAME__
 
-  - name: vimeo
+  - name: Vimeo
     url-pattern: vimeo.com/__USERNAME__
 
-  - name: soundcloud
+  - name: SoundCloud
     url-pattern: soundcloud.com/__USERNAME__
 
-  - name: lastfm
+  - name: LastFM
     url-pattern: last.fm/user/__USERNAME__
 
   - name: medium
     url-pattern: medium.com/@__USERNAME__
 
-  - name: tumblr
+  - name: Tumblr
     url-pattern: __USERNAME__.tumblr.com
 
-  - name: dribbble
+  - name: Dribbble
     url-pattern: dribbble.com/__USERNAME__
 
-  - name: keybase
+  - name: Keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: messenger
+  - name: Messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
-  - name: telegram
+  - name: Telegram
     url-pattern: telegram.me/__USERNAME__
 
-  - name: snapchat
+  - name: Snapchat
     url-pattern: snapchat.com/add/__USERNAME__
 
-  - name: quora
+  - name: Quora
     url-pattern: www.quora.com/profile/__USERNAME__
 
-  - name: blog_url
+  - name: Blog
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: email
+  - name: Email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
