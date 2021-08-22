@@ -36,7 +36,7 @@ Email: 'andrey@puhovsky.com'
 #messenger: 'myfbchat'
 Telegram: 'andreypuhovsky'
 
-social-links-order: [GitHub, Facebook, Twitter, Instagram, Tumblr, Pinterest, LinkedIn, YouTube, VK, Weibo, Dribbble, Messenger, Blog, Telegram, Email]
+social-links-order: [Email, Telegram, LinkedIn, Instagram, VK, GitHub]
 
 # Yaml manifest of supported social links
 # Requirements:
