@@ -67,18 +67,21 @@ social-links:
 
   - name: LinkedIn
     url-pattern: linkedin.com/in/__USERNAME__
+    icon-class: fab fa-2x fa-linkedin
 
   - name: Google-Plus
     url-pattern: plus.google.com/+__USERNAME__
 
   - name: VK
     url-pattern: vk.com/__USERNAME__
+    icon-class: fab fa-2x fa-vk
 
   - name: Weibo
     url-pattern: weibo.com/__USERNAME__
 
   - name: Instagram
     url-pattern: instagram.com/__USERNAME__
+    icon-class: fab fa-2x fa-instagram
 
   - name: Flickr
     url-pattern: flickr.com/__USERNAME__
@@ -140,6 +143,7 @@ social-links:
 
   - name: Telegram
     url-pattern: telegram.me/__USERNAME__
+    icon-class: fab fa-2x fa-telegram
 
   - name: Snapchat
     url-pattern: snapchat.com/add/__USERNAME__
