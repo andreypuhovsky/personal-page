@@ -34,8 +34,9 @@ vk: 'andrey.puhovsky'
 #blog_url: 'myblog.blog.com'
 email: 'andrey@puhovsky.com'
 #messenger: 'myfbchat'
+telegram: 'andreypuhovsky'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, telegram, email]
 
 # Yaml manifest of supported social links
 # Requirements:
