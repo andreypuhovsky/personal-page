@@ -1,5 +1,5 @@
 # Theme
-remote_theme: BorlCand/cover-card@main
+remote_theme: andreypuhovsky/cover-card@main
 
 # Title and tag line
 title: 'Andrey Puhovsky'
@@ -15,10 +15,10 @@ favicon: 'favicon.ico'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
 LinkedIn: 'andreypuhovsky'
-Instagram: 'andrey.puhovsky'
+#Instagram: 'andrey.puhovsky'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-GitHub: 'borlcand'
+GitHub: 'andreypuhovsky'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -30,11 +30,11 @@ GitHub: 'borlcand'
 #medium:  ''
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
-VK: 'andrey.puhovsky'
+#VK: 'andrey.puhovsky'
 #blog_url: 'myblog.blog.com'
 Email: 'andrey@puhovsky.com'
 #messenger: 'myfbchat'
-Telegram: 'andreypuhovsky'
+#Telegram: 'andreypuhovsky'
 
 social-links-order: [Email, Telegram, LinkedIn, Instagram, VK, GitHub]
 
