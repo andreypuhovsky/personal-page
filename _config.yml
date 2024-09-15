@@ -1,6 +1,8 @@
 # Theme
 remote_theme: andreypuhovsky/cover-card@main
 
+repository: andreypuhovsky/personal-page
+
 # Title and tag line
 title: 'Andrey Puhovsky'
 description: 'T-shaped Human Being'
